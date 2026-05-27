@@ -4,7 +4,7 @@ A tutor that teaches you to spot bad arguments — not by handing you a list of 
 
 **What it teaches:** 12 common logical fallacies, how to identify them in news headlines and social media, how to distinguish between similar fallacies, and how to evaluate whether an argument is genuinely sound or just persuasive.
 
-**What it demonstrates:** How ScaffoldAI handles **analytical reasoning** — a skill that requires pattern recognition, judgment, and the ability to explain *why* something fails, not just label it.
+**What it demonstrates:** How ScaffoldedAI handles **analytical reasoning** — a skill that requires pattern recognition, judgment, and the ability to explain *why* something fails, not just label it.
 
 ---
 
