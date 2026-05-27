@@ -1,6 +1,6 @@
 # Tutor Builder
 
-The Tutor Builder is a Claude Project that helps you create your own ScaffoldAI tutor. You give it source material — documentation, guides, textbooks, or just your own expertise — and it walks you through a five-stage process to produce a Layer 2 document tailored to your content.
+The Tutor Builder is a Claude Project that helps you create your own ScaffoldedAI tutor. You give it source material — documentation, guides, textbooks, or just your own expertise — and it walks you through a five-stage process to produce a Layer 2 document tailored to your content.
 
 No instructional design experience needed. The builder handles the pedagogy; you bring the subject matter knowledge.
 
