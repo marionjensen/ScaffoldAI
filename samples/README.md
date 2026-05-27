@@ -1,6 +1,6 @@
 # Sample Tutors
 
-These three tutors demonstrate ScaffoldAI across different types of learning. Each one is ready to use — just copy the instructions into a Claude Project and start a conversation.
+These three tutors demonstrate ScaffoldedAI across different types of learning. Each one is ready to use — just copy the instructions into a Claude Project and start a conversation.
 
 | Sample | Topic | What It Demonstrates |
 |---|---|---|
