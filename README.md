@@ -1,4 +1,4 @@
-# ScaffoldAI
+# ScaffoldedAI
 
 **A two-layer framework for building AI tutors that actually teach.**
 
@@ -10,9 +10,9 @@ Most AI-powered learning tools do one of two things: they answer questions like 
 
 That's like handing someone a textbook and calling it a teacher. Information is not instruction.
 
-## What ScaffoldAI Does Differently
+## What ScaffoldedAI Does Differently
 
-ScaffoldAI is a framework for building AI tutors grounded in established learning science — tutors that guide learners through understanding rather than handing them answers. These tutors use Socratic questioning, check for misconceptions, adapt to what the learner already knows, and build knowledge step by step.
+ScaffoldedAI is a framework for building AI tutors grounded in established learning science — tutors that guide learners through understanding rather than handing them answers. These tutors use Socratic questioning, check for misconceptions, adapt to what the learner already knows, and build knowledge step by step.
 
 The framework is built on a two-layer architecture:
 
@@ -32,7 +32,7 @@ The result: you can build a tutor for *any* subject by writing a Layer 2 documen
 
 ### 🎓 Path 1: Experience a Sample Tutor
 
-If you want to see what a ScaffoldAI tutor feels like before building anything, start here. We've built three sample tutors that demonstrate the framework across different types of learning:
+If you want to see what a ScaffoldedAI tutor feels like before building anything, start here. We've built three sample tutors that demonstrate the framework across different types of learning:
 
 | Sample Tutor | What It Teaches | What It Demonstrates |
 |---|---|---|
@@ -74,7 +74,7 @@ That's it. Two files in a Claude Project. No code, no plugins, no platform to le
 
 ## Who Made This
 
-ScaffoldAI was created by **Marion Jensen**, an author and instructional designer with 25+ years of experience building learning programs at companies like American Express, Discover, Brex, and Milliman. Marion's work sits at the intersection of instructional design and AI — exploring how large language models can move beyond content delivery into genuine, adaptive teaching.
+ScaffoldedAI was created by **Marion Jensen**, an author and instructional designer with 25+ years of experience building learning programs at companies like American Express, Discover, Brex, and Milliman. Marion's work sits at the intersection of instructional design and AI — exploring how large language models can move beyond content delivery into genuine, adaptive teaching.
 
 This framework grew out of real-world deployment: AI tutors built using this architecture have been used for employee onboarding, professional development, and skills training in live corporate environments.
 
