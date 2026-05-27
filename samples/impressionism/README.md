@@ -4,7 +4,7 @@ A tutor that builds understanding of two of the most influential art movements i
 
 **What it teaches:** The philosophical goals, techniques, and major artists of Impressionism and Post-Impressionism, culminating in the ability to look at an unfamiliar painting and make a reasoned argument for which movement it belongs to.
 
-**What it demonstrates:** How ScaffoldAI handles **conceptual knowledge** — ideas, connections, and distinctions that require understanding, not memorization.
+**What it demonstrates:** How ScaffoldedAI handles **conceptual knowledge** — ideas, connections, and distinctions that require understanding, not memorization.
 
 ---
 
