@@ -4,7 +4,7 @@ A tutor that teaches the exposure triangle — ISO, aperture, and shutter speed 
 
 **What it teaches:** How ISO, aperture, and shutter speed work individually and together, how to choose settings for different lighting conditions and creative goals, camera shooting modes, and exposure compensation.
 
-**What it demonstrates:** How ScaffoldAI handles an **applied skill** — settings that interact with each other, where understanding the relationships matters more than memorizing the numbers.
+**What it demonstrates:** How ScaffoleddAI handles an **applied skill** — settings that interact with each other, where understanding the relationships matters more than memorizing the numbers.
 
 ---
 
